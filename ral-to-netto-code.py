@@ -22,11 +22,13 @@ def netto(ral):
     netto_annuo=imp_irpef - irpef_lorda + detraz + renzi
     return netto_annuo
 
+k=1
 for i in range(14000,52001,2000):
     ran = netto(i)
     cuneo = (i-ran)*100/i
-    print("Esempio")
+    print("Esempio",k)
     print("Con una RAL di ",i,"il netto annuo è di ",round(ran,2))
     print("Lo stipendio mensile su 13 mensilità è ",round(ran/13,2))
     print("Il cuneo fiscale e contributivo pesa il ",round(cuneo),"%")
+    k+=1
     

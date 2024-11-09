@@ -1,0 +1,84 @@
+Esempio
+Con una RAL di  14000 il netto annuo è di  12654.75
+Lo stipendio mensile su 13 mensilità è  973.44
+Il cuneo fiscale e contributivo pesa il  10 %
+Esempio
+Con una RAL di  16000 il netto annuo è di  14011.86
+Lo stipendio mensile su 13 mensilità è  1077.84
+Il cuneo fiscale e contributivo pesa il  12 %
+Esempio
+Con una RAL di  18000 il netto annuo è di  15839.65
+Lo stipendio mensile su 13 mensilità è  1218.43
+Il cuneo fiscale e contributivo pesa il  12 %
+Esempio
+Con una RAL di  20000 il netto annuo è di  16924.46
+Lo stipendio mensile su 13 mensilità è  1301.88
+Il cuneo fiscale e contributivo pesa il  15 %
+Esempio
+Con una RAL di  22000 il netto annuo è di  18009.27
+Lo stipendio mensile su 13 mensilità è  1385.33
+Il cuneo fiscale e contributivo pesa il  18 %
+Esempio
+Con una RAL di  24000 il netto annuo è di  19094.08
+Lo stipendio mensile su 13 mensilità è  1468.78
+Il cuneo fiscale e contributivo pesa il  20 %
+Esempio
+Con una RAL di  26000 il netto annuo è di  20178.89
+Lo stipendio mensile su 13 mensilità è  1552.22
+Il cuneo fiscale e contributivo pesa il  22 %
+Esempio
+Con una RAL di  28000 il netto annuo è di  21263.7
+Lo stipendio mensile su 13 mensilità è  1635.67
+Il cuneo fiscale e contributivo pesa il  24 %
+Esempio
+Con una RAL di  30000 il netto annuo è di  22348.51
+Lo stipendio mensile su 13 mensilità è  1719.12
+Il cuneo fiscale e contributivo pesa il  26 %
+Esempio
+Con una RAL di  32000 il netto annuo è di  23374.28
+Lo stipendio mensile su 13 mensilità è  1798.02
+Il cuneo fiscale e contributivo pesa il  27 %
+Esempio
+Con una RAL di  34000 il netto annuo è di  24348.14
+Lo stipendio mensile su 13 mensilità è  1872.93
+Il cuneo fiscale e contributivo pesa il  28 %
+Esempio
+Con una RAL di  36000 il netto annuo è di  25321.99
+Lo stipendio mensile su 13 mensilità è  1947.85
+Il cuneo fiscale e contributivo pesa il  30 %
+Esempio
+Con una RAL di  38000 il netto annuo è di  26295.85
+Lo stipendio mensile su 13 mensilità è  2022.76
+Il cuneo fiscale e contributivo pesa il  31 %
+Esempio
+Con una RAL di  40000 il netto annuo è di  27269.7
+Lo stipendio mensile su 13 mensilità è  2097.67
+Il cuneo fiscale e contributivo pesa il  32 %
+Esempio
+Con una RAL di  42000 il netto annuo è di  28243.56
+Lo stipendio mensile su 13 mensilità è  2172.58
+Il cuneo fiscale e contributivo pesa il  33 %
+Esempio
+Con una RAL di  44000 il netto annuo è di  29217.41
+Lo stipendio mensile su 13 mensilità è  2247.49
+Il cuneo fiscale e contributivo pesa il  34 %
+Esempio
+Con una RAL di  46000 il netto annuo è di  30191.27
+Lo stipendio mensile su 13 mensilità è  2322.41
+Il cuneo fiscale e contributivo pesa il  34 %
+Esempio
+Con una RAL di  48000 il netto annuo è di  31165.12
+Lo stipendio mensile su 13 mensilità è  2397.32
+Il cuneo fiscale e contributivo pesa il  35 %
+Esempio
+Con una RAL di  50000 il netto annuo è di  32138.98
+Lo stipendio mensile su 13 mensilità è  2472.23
+Il cuneo fiscale e contributivo pesa il  36 %
+Esempio
+Con una RAL di  52000 il netto annuo è di  33112.83
+Lo stipendio mensile su 13 mensilità è  2547.14
+Il cuneo fiscale e contributivo pesa il  36 %
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
